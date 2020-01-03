@@ -1,23 +1,23 @@
-{ 
-  “ ads”：“ true”，
-  “ update”：[{ 
-    “ version”：“ 2.8.1600”，
-    “ title”：“此应用程序现已开源”，
-    “ description”：“该应用程序可在github上找到。 com / gayankuruppu / android-vpn-client-ics-openvpn“，
-    ” size“：” https://git.io/JeY69“ 
-  }]，
-  ” blocked“：[ 
-    {” id“：0，” app“：” com.android.game“}，
-    {” id“：1，” app“：” com.utorrent.client“}，
-    {” id“：2，” app“：” com.torrent.client“}，
-    {” id“：3，” app“：” com.tor.client“}，
-    {” id“：4，” app“：” com.insta。client“}， 
-    {” id“：5，” app“：” com.facebook.client“}，
-    {” id“：6，” app“：” com.get.client“} 
-  ]，
-  ”免费“：[
-    {“ id”：0，“文件”：0，“城市”：“埃森”，“国家”：“德国”，“图像”：“德国”，“ ip”：“ 51.68.191.75”，“活动” ：“ true”，“信号”：“ a”}，
-    {“ id”：1，“文件”：0，“城市”：“汉堡”，“国家”：“德国”，“图像”：“德国” ，“ ip”：“ 51.68.191.75”，“ active”：“ true”，“ signal”：“ b”}，
-    {“ id”：2，“ file”：1，“ city”：“ Los Angeles CA” ，“国家”：“美国”，“图像”：“美国”，“ ip”：“ 205.185.119.100”，“活动”：“真”，“信号”：“ c”} 
-  ] 
+{
+  "ads":"true",
+  "update":[{
+    "version":"2.8.1600",
+    "title":"This app is now Open Source",
+    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
+    "size":"https://git.io/JeY69"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":2, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"}
+  ]
 }
